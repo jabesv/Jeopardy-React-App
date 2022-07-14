@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color:cadetblue;
+  /* display: flex; */
+}
+
+.welcome{
+  color: yellow;
+  
+}
+
+.welcome1 {
+  font-size: 35px;
+    color: white0;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(235, 205, 205);
+}
+
+.buttons{
+  display: block;
+  justify-content: space-between
+}
+
+.title{
+  color: yellow;
+  
+}
+
+.display {
+  color: white;
+
+}

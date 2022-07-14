@@ -69,7 +69,7 @@ handleReset = () => {
   render(){
     return (
       <div className="App">
-        <h1 className='welcome'>Welcome To Jeopardy</h1>
+        <h1 className='welcome1'>Welcome To Jeopardy</h1>
       
       <Score 
         handleDecrease={this.handleDecrease}

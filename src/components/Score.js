@@ -1,6 +1,6 @@
 const Score = (props) => {
     return (
-        <div>
+        <div className="buttons">
             <h2 className="welcome">Score: {props.score}</h2>
             <button onClick={props.handleDecrease} className='decrease'>
                 Decrease
